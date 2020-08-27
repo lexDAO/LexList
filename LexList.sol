@@ -15,9 +15,9 @@ pragma solidity 0.5.17;
 
 contract LexList {
     address public governance;
-    address[] public listings;
+    address[] private listings;
     string public message;
-    mapping(address => Contract) public contractList;
+    mapping(address => Contract) private contractList;
     
     event List(address indexed _contract);
     event Delist(address indexed _contract);
@@ -90,10 +90,6 @@ contract LexList {
     // *******
     function contractCount() external view returns (uint256) {
         return listings.length;
-    }
-    
-    function contractList() external view returns (address[] memory) {
-        return listings;
     }
     
     function isListed(address _contract) external view returns (bool) {
