@@ -1,8 +1,8 @@
 # LexList 📜
 LexDAO-certified Ethereum contract & user account registries
 
-## LexDAO Contract List
-### > Token
+## LexDAO Contract List: [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106)
+### *Token*
 | Name | Ethereum Address | 
 |----------|:-------------:| 
 | Wrapped Ether | [`0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2`](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) | 
