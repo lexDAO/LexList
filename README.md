@@ -2,7 +2,7 @@
 LexDAO-governed Ethereum contract listing
 
 ### *Token* 
-> [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106)
+> [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106/code#code)
 
 | Name | Ethereum Address | 
 |----------|:-------------:| 
@@ -15,4 +15,4 @@ LexDAO-governed Ethereum contract listing
 | Aragon Network Juror | [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) | 
 
 #### *Governance*
-> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) LexDAO MYSTIC (41 member) 🧙
+> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (41 member)** 🧙
