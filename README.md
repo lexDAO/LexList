@@ -12,3 +12,6 @@ LexDAO-certified Ethereum contract & user account registries
 | EthLend Token | [`0x80fB784B7eD66730e8b1DBd9820aFD29931aab03`](https://etherscan.io/address/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03) | 
 | Aragon Network Token | [`0x960b236A07cf122663c4303350609A66A7B288C0`](https://etherscan.io/address/0x960b236A07cf122663c4303350609A66A7B288C0) | 
 | Aragon Network Juror | [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) | 
+
+#### *Governance*
+[0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) LexDAO MYSTIC (41 member) 🧙
