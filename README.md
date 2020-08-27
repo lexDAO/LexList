@@ -1,8 +1,9 @@
 # LexList 📜
-LexDAO-certified Ethereum contract & user account registries
+LexDAO-governed Ethereum contract listing
 
-## LexDAO Contract List: [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106)
-### *Token*
+### *Token* 
+> [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106)
+
 | Name | Ethereum Address | 
 |----------|:-------------:| 
 | Wrapped Ether | [`0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2`](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2) | 
@@ -14,4 +15,4 @@ LexDAO-certified Ethereum contract & user account registries
 | Aragon Network Juror | [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) | 
 
 #### *Governance*
-[0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) LexDAO MYSTIC (41 member) 🧙
+> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) LexDAO MYSTIC (41 member) 🧙
