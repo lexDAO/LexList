@@ -1,5 +1,5 @@
 # LexList 📜
-LexDAO-governed Ethereum contract listing
+LexDAO-governed Ethereum contract & qualified-user account listing
 
 ### *Token* 
 > [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106/code#code)
@@ -15,4 +15,18 @@ LexDAO-governed Ethereum contract listing
 | Aragon Network Juror | [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) | 
 
 #### *Governance*
+> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (41 member)** 🧙
+
+### *Accreditation* 
+> [0x365c0F05CCfAE37899b55D79459eB7C0fCB20e3a](https://etherscan.io/address/0x365c0F05CCfAE37899b55D79459eB7C0fCB20e3a/code#code)
+
+| Name | Ethereum Address | 
+|----------|:-------------:| 
+| AH Capital Management, LLC ("***Andreessen Horowitz***") | [`0x05E793cE0C6027323Ac150F6d45C2344d28B6019`](https://etherscan.io/address/0x05E793cE0C6027323Ac150F6d45C2344d28B6019) | 
+
+### *Governance*
+
+LexDAO Lawyer (LXLAW) holders (1): [0x3e6D94F5eB600a83366EEedb1Ac374972eD8f763](https://etherscan.io/address/0x3e6D94F5eB600a83366EEedb1Ac374972eD8f763#code)
+
+#### *LXLAW Governance*
 > [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (41 member)** 🧙
