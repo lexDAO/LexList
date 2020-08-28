@@ -28,6 +28,9 @@ Confirming that the above is true and correct,
 
 _____________________
 **[[Attorney Name]]**
+
 [[Attorney Address]]
+
 Bar Number: __[[Attorney Bar Number]]__
+
 0x[[Attorney ETH Address]]
