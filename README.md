@@ -18,7 +18,7 @@ LexDAO-governed Ethereum contract & qualified-user account listing
 > [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (41 member)** 🧙
 
 ### *Accreditation* 
-> [0xC1D86836920AD83617Fb13De7Da6ea66105580D9](https://etherscan.io/address/0xC1D86836920AD83617Fb13De7Da6ea66105580D9/code#code)
+> [0x6FAfAD57060201d8Fac9D190d4f42Ef1e68494c2](https://etherscan.io/address/0x6FAfAD57060201d8Fac9D190d4f42Ef1e68494c2/code#code)
 
 | Name | Ethereum Address | 
 |----------|:-------------:| 
