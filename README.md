@@ -15,7 +15,7 @@ LexDAO-governed Ethereum contract & qualified-user account listing
 | Aragon Network Juror | [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) | 
 
 #### *Governance*
-> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (41 member)** 🧙
+> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (43 member)** 🧙
 
 ### *Accreditation* 
 > [0x6FAfAD57060201d8Fac9D190d4f42Ef1e68494c2](https://etherscan.io/address/0x6FAfAD57060201d8Fac9D190d4f42Ef1e68494c2/code#code)
@@ -29,4 +29,4 @@ LexDAO-governed Ethereum contract & qualified-user account listing
 LexDAO Lawyer (LXLAW) holders (1): [0x3e6D94F5eB600a83366EEedb1Ac374972eD8f763](https://etherscan.io/address/0x3e6D94F5eB600a83366EEedb1Ac374972eD8f763#code)
 
 #### *LXLAW Governance*
-> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (41 member)** 🧙
+> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (43 member)** 🧙
