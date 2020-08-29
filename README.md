@@ -1,7 +1,7 @@
 # LexList 📜
 LexDAO-governed Ethereum contract & qualified-user account listing
 
-### *Token* 
+### *Contract* 
 > [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106/code#code)
 
 | Name | Ethereum Address | 
