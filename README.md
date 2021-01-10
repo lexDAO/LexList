@@ -1,8 +1,8 @@
 # LexList 📜
-LexDAO-governed Ethereum contract & qualified-user account listing
+LexDAO-governed Ethereum contract listing
 
 ### *Contract* 
-> [0x374fBeFE7cD832dd5745E1D741d661C91D0B5106](https://etherscan.io/address/0x374fBeFE7cD832dd5745E1D741d661C91D0B5106/code#code)
+> [0xC6B688831C870C85cB3db74F29DAFCDCD60ebC16](https://etherscan.io/address/0xC6B688831C870C85cB3db74F29DAFCDCD60ebC16/code#code)
 
 | Name | Ethereum Address | 
 |----------|:-------------:| 
@@ -10,23 +10,9 @@ LexDAO-governed Ethereum contract & qualified-user account listing
 | Dai Stablecoin | [`0x6B175474E89094C44Da98b954EedeAC495271d0F`](https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F) | 
 | Chai | [`0x06AF07097C9Eeb7fD685c692751D5C66dB49c215`](https://etherscan.io/address/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215) | 
 | ChainLink Token | [`0x514910771AF9Ca656af840dff83E8264EcF986CA`](https://etherscan.io/address/0x514910771AF9Ca656af840dff83E8264EcF986CA) | 
-| EthLend Token | [`0x80fB784B7eD66730e8b1DBd9820aFD29931aab03`](https://etherscan.io/address/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03) | 
-| Aragon Network Token | [`0x960b236A07cf122663c4303350609A66A7B288C0`](https://etherscan.io/address/0x960b236A07cf122663c4303350609A66A7B288C0) | 
-| Aragon Network Juror | [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) | 
+| Aave Token | [`0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9`](https://etherscan.io/address/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9) | 
+| Aragon Network Token | [`0xa117000000f279D81A1D3cc75430fAA017FA5A2e`](https://etherscan.io/address/0xa117000000f279D81A1D3cc75430fAA017FA5A2e) | 
+| LexDAO | [`0x63125c0d5Cd9071de9A1ac84c400982f41C697AE`](https://etherscan.io/address/0x63125c0d5Cd9071de9A1ac84c400982f41C697AE) | 
 
 #### *Governance*
-> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (43 member)** 🧙
-
-### *Accreditation* 
-> [0x6FAfAD57060201d8Fac9D190d4f42Ef1e68494c2](https://etherscan.io/address/0x6FAfAD57060201d8Fac9D190d4f42Ef1e68494c2/code#code)
-
-| Name | Ethereum Address | 
-|----------|:-------------:| 
-| AH Capital Management, LLC ("***Andreessen Horowitz***") | [`0x05E793cE0C6027323Ac150F6d45C2344d28B6019`](https://etherscan.io/address/0x05E793cE0C6027323Ac150F6d45C2344d28B6019) | 
-
-### *Governance*
-
-LexDAO Lawyer (LXLAW) holders (1): [0x3e6D94F5eB600a83366EEedb1Ac374972eD8f763](https://etherscan.io/address/0x3e6D94F5eB600a83366EEedb1Ac374972eD8f763#code)
-
-#### *LXLAW Governance*
-> [0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d](https://etherscan.io/address/0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d) **LexDAO MYSTIC (43 member)** 🧙
+> [0x01B92E2C0D06325089c6Fd53C98a214f5C75B2aC](https://etherscan.io/address/0x01B92E2C0D06325089c6Fd53C98a214f5C75B2aC) **LexDAO Corps.** 🧙
