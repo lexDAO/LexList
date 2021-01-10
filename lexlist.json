@@ -1,6 +1,6 @@
 {
   "name": "LexDAO Contract List",
-  "timestamp": "2020-08-26T23:23:57+00:00",
+  "timestamp": "2021-01-10T23:23:57+00:00",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,12 +41,12 @@
       "decimals": 18
     },
     {
-      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "chainId": 1,
-      "name": "EthLend Token",
-      "symbol": "LEND",
+      "name": "Aave Token",
+      "symbol": "AAVE",
       "decimals": 18
-    }
+    },
     {
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
       "chainId": 1,
@@ -55,10 +55,10 @@
       "decimals": 18
     },
     {
-      "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+      "address": "0x63125c0d5Cd9071de9A1ac84c400982f41C697AE",
       "chainId": 1,
-      "name": "Aragon Network Juror",
-      "symbol": "ANJ",
+      "name": "LexDAO",
+      "symbol": "LEX",
       "decimals": 18
     }
   ]
