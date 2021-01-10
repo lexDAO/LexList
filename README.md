@@ -2,7 +2,7 @@
 LexDAO-governed Ethereum contract listing
 
 ### *Contract* 
-> [0xC6B688831C870C85cB3db74F29DAFCDCD60ebC16](https://etherscan.io/address/0xC6B688831C870C85cB3db74F29DAFCDCD60ebC16/code#code)
+> [0x81a91270629632886e56Ab01BBa3d8BCB5Da4b9b](https://etherscan.io/address/0x81a91270629632886e56Ab01BBa3d8BCB5Da4b9b/code#code)
 
 | Name | Ethereum Address | 
 |----------|:-------------:| 
