@@ -1,0 +1,39 @@
+{
+  "name": "LexDAO Flagged Tokens",
+  "logoURI":"https://etherscan.io/token/images/lexdao_32.png",
+  "keywords": [
+    "lexdao",
+    "verified",
+    "list"
+  ],
+  "timestamp": "2021-01-26T23:23:57+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xDC297D0ef0763d8953F1D672de950d100Ac4D9f7",
+      "symbol": "Teller",
+      "name": "Teller.Finance (FLAGGED)",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "tags": [
+        "teller"
+    ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x095A2AF7A6B328a327fbC97f5706559d5aB6BCE9",
+      "symbol": "LEX",
+      "name": "lexdao.org (FLAGGED)",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "tags": [
+        "LexDAO"
+    ]
+    }
+    ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
